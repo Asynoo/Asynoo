@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33240998/README.md)
-## Hi there 👋
-
-<!--![Asyno, software developer in Esbjerg, Denmark](https://raw.githubusercontent.com/Asynoo/Asynoo/main/header.svg)
+![Asyno, software developer in Esbjerg, Denmark](https://raw.githubusercontent.com/Asynoo/Asynoo/main/header.svg)
 
 I'm a software developer from Esbjerg on Denmark's west coast. I've been building things since my first semester at EASV in 2020, starting with Java console apps and working my way through C# backends, Android, Kubernetes and LLM agents. These days I spend most of my time on Flutter, fullstack TypeScript and C#, and on the unglamorous work that makes software trustworthy: tests, CI/CD and security scanning.
 
@@ -40,23 +37,3 @@ I'm a software developer from Esbjerg on Denmark's west coast. I've been buildin
 ### Outside the editor
 
 Most of my projects end up named after gods: Odin, Athena, Neptune, and one trident so far. The rune on the banner is Ansuz, Odin's rune. The project I keep coming back to is FishyCodex, a logbook for fishing trips that I've now built three times: in Java, as a fullstack app, and in Kotlin.
-
-### Get in touch
-
-<!-- TODO: put in your LinkedIn URL and email address, or delete this section -->
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) or by [email](mailto:YOUR-EMAIL).
-
-**Asynoo/Asynoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<img width="1280" height="360" alt="header" src="https://github.com/user-attachments/assets/f65c2db2-6c60-4d80-86fd-7afe19a755b1" />[README.md](https://github.com/user-attachments/files/33241005/README.md)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

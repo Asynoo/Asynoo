@@ -6,7 +6,7 @@ I'm a software developer from Esbjerg on Denmark's west coast. I've been buildin
 
 - Building **Asyno's Anime Handbook**, a personal anime tracker with AniList-powered search (NestJS and Firestore behind an Angular Material frontend)
 - Working on **[Athenas Forge](https://github.com/Athenas-Forge)**. Designing an immersive questing system for Hytale
-- Working on **[Trident Vault](https://github.com/TridentVault/trident-vault)**, personal and family finance software with AI-driven suggestions
+- Working on **[Trident Vault](https://github.com/TridentVault)**, personal and family finance software with AI-driven suggestions
 
 ### Selected work
 

@@ -1,12 +1,6 @@
-![Asyno, software developer in Esbjerg, Denmark](https://raw.githubusercontent.com/Asynoo/Asynoo/main/header.svg)
+### Tools I use
 
-I'm a software developer from Esbjerg on Denmark's west coast. I've been building things since my first semester at EASV in 2020, starting with Java console apps and working my way through C# backends, Android, Kubernetes and LLM agents. These days I spend most of my time on Flutter, fullstack TypeScript and C#, and on the unglamorous work that makes software trustworthy: tests, CI/CD and security scanning.
-
-### Right now
-
-- Building **Asyno's Anime Handbook**, a personal anime tracker with AniList-powered search (NestJS and Firestore behind an Angular Material frontend)
-- Working on **[Athenas Forge](https://github.com/Athenas-Forge)**, designing an immersive questing system for Hytale
-- Working on **[Trident Vault](https://github.com/TridentVault)**, personal and family finance software with AI-driven suggestions
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nestjs,flutter,dart,kotlin,java,py,postgres,firebase,docker,kubernetes,githubactions&perline=8" alt="C#, .NET, TypeScript, Angular, NestJS, Flutter, Dart, Kotlin, Java, Python, PostgreSQL, Firebase, Docker, Kubernetes, GitHub Actions" />
 
 ### Selected work
 
@@ -17,10 +11,6 @@ I'm a software developer from Esbjerg on Denmark's west coast. I've been buildin
 | **[Secure CI/CD pipeline](https://github.com/feix0033/EASV-2nd-SSD-final-exam)** | Team exam project: a pipeline that lints, tests and ships Docker images while CodeQL, Snyk and Trivy scan the code, dependencies and containers. | GitHub Actions, Docker, TypeScript |
 | **[Financial Advisor](https://github.com/feix0033/EASV-2nd-SWQ-final-exam)** | A personal finance tracker built as a software quality case study, with data-driven unit tests, mocking and white-box testing. | NestJS, TypeScript, Jest |
 | **[Research Assistant Agent](https://github.com/Asynoo/Scientific-Research-AI-Agent)** | A team of LLM agents that searches papers on Semantic Scholar, writes code to process them, runs it, and checks its own results. | Python, LLM agents |
-
-### Tools I reach for
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nestjs,flutter,dart,kotlin,java,py,postgres,firebase,docker,kubernetes,githubactions&perline=8" alt="C#, .NET, TypeScript, Angular, NestJS, Flutter, Dart, Kotlin, Java, Python, PostgreSQL, Firebase, Docker, Kubernetes, GitHub Actions" />
 
 ### How I got here
 

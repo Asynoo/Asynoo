@@ -2,7 +2,6 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nestjs,flutter,dart,kotlin,java,py,postgres,firebase,docker,kubernetes,githubactions&perline=8" alt="C#, .NET, TypeScript, Angular, NestJS, Flutter, Dart, Kotlin, Java, Python, PostgreSQL, Firebase, Docker, Kubernetes, GitHub Actions" />
 
-### Selected work
 
 | Project | What it is | Built with |
 | --- | --- | --- |
@@ -11,8 +10,6 @@
 | **[Secure CI/CD pipeline](https://github.com/feix0033/EASV-2nd-SSD-final-exam)** | Team exam project: a pipeline that lints, tests and ships Docker images while CodeQL, Snyk and Trivy scan the code, dependencies and containers. | GitHub Actions, Docker, TypeScript |
 | **[Financial Advisor](https://github.com/feix0033/EASV-2nd-SWQ-final-exam)** | A personal finance tracker built as a software quality case study, with data-driven unit tests, mocking and white-box testing. | NestJS, TypeScript, Jest |
 | **[Research Assistant Agent](https://github.com/Asynoo/Scientific-Research-AI-Agent)** | A team of LLM agents that searches papers on Semantic Scholar, writes code to process them, runs it, and checks its own results. | Python, LLM agents |
-
-### How I got here
 
 | Year | What I was learning |
 | --- | --- |
@@ -23,7 +20,3 @@
 | **2024** | Kotlin side projects, including yet another rebuild of my fishing logbook |
 | **2025** | Machine learning, LLM agents and clean architecture in C# |
 | **2026** | Secure CI/CD, software quality, database concurrency and Flutter |
-
-### Outside the editor
-
-Most of my projects end up named after gods: Odin, Athena, Neptune, and one trident so far. The rune on the banner is Ansuz, Odin's rune. The project I keep coming back to is FishyCodex, a logbook for fishing trips that I've now built three times: in Java, as a fullstack app, and in Kotlin.
